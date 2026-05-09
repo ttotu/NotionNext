@@ -27,10 +27,10 @@ const CONFIG = {
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
-  // 英雄区显示三个置顶分类
+  // 英雄区显示三个置顶分类xu
   HEO_HERO_CATEGORY_1: { title: '팀원소개', url: '/about' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_2: { title: '프로젝트보기', url: '/archive' },
+  HEO_HERO_CATEGORY_3: { title: '문의하기', url: '/contact' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -51,12 +51,12 @@ const CONFIG = {
     '🧱 团队小组发动机'
   ],
 
-  // 个人资料底部按钮
+  // 个人资料底部按钮 xu
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -119,17 +119,17 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮 xu
+  HEO_SOCIAL_CARD_TITLE_1: '클릭 카톡문의',
+  HEO_SOCIAL_CARD_TITLE_2: 'Wechat검색 ID:XXX',
+  HEO_SOCIAL_CARD_TITLE_3: '카톡열기',
+  HEO_SOCIAL_CARD_URL: 'kakaotalk://profile/user=hgbxgf',
 
-  // 底部统计面板文案
-  HEO_POST_COUNT_TITLE: '文章数:',
-  HEO_SITE_TIME_TITLE: '建站天数:',
-  HEO_SITE_VISIT_TITLE: '访问量:',
-  HEO_SITE_VISITOR_TITLE: '访客数:',
+  // 底部统计面板文案 xu
+  HEO_POST_COUNT_TITLE: '게시물 수:',
+  HEO_SITE_TIME_TITLE: '사이트 운영 일수:',
+  HEO_SITE_VISIT_TITLE: '조회수:',
+  HEO_SITE_VISITOR_TITLE: '방문자 수:',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
