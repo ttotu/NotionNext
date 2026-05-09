@@ -1,15 +1,15 @@
 const CONFIG = {
-  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
+  HEO_HOME_POST_TWO_COLS: false, // 首页博客两列显示，若为false则只显示一列 xu
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-01-01', // 建站日期，用于计算网站运行的第几天 xu
 
-  // 首页顶部通知条滚动内容，如不需要可以留空 []
+  // 首页顶部通知条滚动内容，如不需要可以留空 []  xu
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '환영합니다', url: '/about' },
+    { title: '중국 지역 한중 통역해 드립니다', url: '/about' }
   ],
 
   // 英雄区左右侧组件颠倒位置
