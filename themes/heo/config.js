@@ -43,7 +43,6 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换 xu
   HEO_INFOCARD_GREETINGS: [
     '안녕하세요!',
-    '🔍 ,
     '🤝 카톡 ID:xx',
     '🏃 WeChat ID:xxx',
     '🏠 XXXXX@163.com',
