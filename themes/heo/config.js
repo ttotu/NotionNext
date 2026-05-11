@@ -40,15 +40,15 @@ const CONFIG = {
   // 英雄区右侧推荐文章遮罩控制
   HEO_HERO_RECOMMEND_COVER_ENABLE: false, // 是否显示推荐文章遮罩图片，true显示遮罩需点击查看，false直接显示推荐文章
 
-  // 右侧个人资料卡牌欢迎语，点击可自动切换
+  // 右侧个人资料卡牌欢迎语，点击可自动切换 xu
   HEO_INFOCARD_GREETINGS: [
     '안녕하세요!',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🔍 ,
+    '🤝 카톡 ID:xx',
+    '🏃 WeChat ID:xxx',
+    '🏠 XXXXX@163.com',
+    '🤖️ 수행통역',
+    '🧱 상하이지역통역'
   ],
 
   // 个人资料底部按钮 xu
@@ -56,8 +56,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: '/about',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL3: '/contact',
+  HEO_INFO_CARD_TEXT3: '더보기',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
