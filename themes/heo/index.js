@@ -323,7 +323,7 @@ const LayoutSlug = props => {
               {post?.type === 'Post' && (
                 <div className='px-5'>
                   {/* 版权 */}
-                  <PostCopyright {...props} />
+                  {/* <PostCopyright {...props} />*/}
                   {/* 文章推荐 */}
                   <PostRecommend {...props} />
                 </div>
