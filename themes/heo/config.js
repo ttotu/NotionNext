@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡) xu
   HEO_HERO_TITLE_1: '한중 통역이 필요하신가요?',
   HEO_HERO_TITLE_2: '언제든지 편하게 문의해 주세요',
-  HEO_HERO_TITLE_3: 'WWW.W.COM',
+  HEO_HERO_TITLE_3: 'https://www.linkasia.top/',
   HEO_HERO_TITLE_4: '중한 통역이 필요하신가요?',
   HEO_HERO_TITLE_5: '다년간 중한 통역 경험 보유',
   HEO_HERO_TITLE_LINK: 'https://www.linkasia.top/',
