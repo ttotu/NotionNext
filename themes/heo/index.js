@@ -281,7 +281,7 @@ const LayoutSlug = props => {
             )
             if (!article) {
               router.push('/404').then(() => {
-                console.warn('找不到页面', router.asPath)
+                console.warn('NONE PAGE 404', router.asPath)
               })
             }
           }

@@ -1,10 +1,10 @@
 const CONFIG = {
-  HEO_HOME_POST_TWO_COLS: false, // 首页博客两列显示，若为false则只显示一列 xu
+  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列 xu
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2025-01-01', // 建站日期，用于计算网站运行的第几天 xu
+  HEO_SITE_CREATE_TIME: '2021-05-05', // 建站日期，用于计算网站运行的第几天 xu
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []  xu
   HEO_NOTICE_BAR: [
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'WWW.W.COM',
   HEO_HERO_TITLE_4: '중한 통역이 필요하신가요?',
   HEO_HERO_TITLE_5: '다년간 중한 통역 경험 보유',
-  HEO_HERO_TITLE_LINK: 'WWW.W.COM',
+  HEO_HERO_TITLE_LINK: 'https://www.linkasia.top/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '랜덤으로 보기',
 
