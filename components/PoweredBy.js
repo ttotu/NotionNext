@@ -9,7 +9,7 @@ export default function PoweredBy(props) {
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
-        href=''
+        href='https://www.linkasia.top/'
         className='underline justify-start'>
         GB.Heo
       </a>
