@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡) xu
   HEO_HERO_TITLE_1: '한중 통역이 필요하신가요?',
   HEO_HERO_TITLE_2: '언제든지 편하게 문의해 주세요',
-  HEO_HERO_TITLE_3: 'https://www.linkasia.top/',
+  HEO_HERO_TITLE_3: 'linkasia-info@naver.com',
   HEO_HERO_TITLE_4: '중한 통역이 필요하신가요?',
   HEO_HERO_TITLE_5: '다년간 중한 통역 경험 보유',
-  HEO_HERO_TITLE_LINK: 'https://www.linkasia.top/',
+  HEO_HERO_TITLE_LINK: 'linkasia-info@naver.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '랜덤으로 보기',
 
@@ -45,7 +45,7 @@ const CONFIG = {
     '안녕하세요!',
     '🤝 카톡 ID:xx',
     '🏃 WeChat ID:xxx',
-    '🏠 XXXXX@163.com',
+    '🏠 linkasia-info@naver.com',
     '🤖️ 수행통역',
     '🧱 상하이지역통역'
   ],
