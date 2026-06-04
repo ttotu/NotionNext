@@ -121,7 +121,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮 xu
   HEO_SOCIAL_CARD_TITLE_1: '클릭 카톡문의',
   HEO_SOCIAL_CARD_TITLE_2: 'Wechat검색 ID: linkasia-info',
-  HEO_SOCIAL_CARD_TITLE_3: '카톡열기',
+  HEO_SOCIAL_CARD_TITLE_3: '카톡열기 ID: linkasia-info',
   HEO_SOCIAL_CARD_URL: 'kakaotalk://profile/user=linkasia-info',
 
   // 底部统计面板文案 xu
